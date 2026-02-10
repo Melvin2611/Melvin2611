@@ -6,7 +6,7 @@
 
 </div>
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Manim](https://img.shields.io/badge/Manim-00b3a2?style=flat-square&logo=python&logoColor=white)
