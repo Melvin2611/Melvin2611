@@ -52,8 +52,9 @@
 
 ## Featured Projects
 
-[Monika](https://github.com/Melvin2611/Monika) a sort of game "Virus" inspired by Monika from DDLC, but only creates Text files
-[Slimey Jump](https://github.com/Melvin2611/SlimeyJump) a 2D Platformer made in Godot.
+- [Monika](https://github.com/Melvin2611/Monika) a sort of game "Virus" inspired by Monika from DDLC, but only creates Text files
+- [Slimey Jump](https://github.com/Melvin2611/SlimeyJump) a 2D Platformer made in Godot.
+
 ## GitHub Stats
 
 <div align="center">
